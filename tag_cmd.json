@@ -1,0 +1,11 @@
+{
+    "{ten_user}": {"en":"gọi Name user","vi":"Gọi Tên người dùng"},
+    "{ten_nv}": {"en":"Tên nhân vật","vi":"Tên nhân vật"},
+    "{gio}": {"en":"Giờ hiện tại","vi":"Giờ hiện tại"},
+    "{ngay}": {"en":"Ngày hiện tại","vi":"Ngày hiện tại"},
+    "{ngay_thang}": {"en":"Ngày tháng hiện tại","vi":"Ngày tháng hiện tại"},
+    "{ngay_thang_nam}": {"en":"Ngày tháng năm hiện tại","   vi":"Ngày tháng năm hiện tại"},
+    "{thu}": {"en":"Thứ hiện tại","vi":"Thứ hiện tại"},
+    "{thang}": {"en":"Tháng hiện tại","vi":"Tháng hiện tại"},
+    "{nam}": {"en":"Năm hiện tại","vi":"Năm hiện tại"}
+}

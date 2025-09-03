@@ -1,0 +1,9 @@
+{
+    "none":{"en":"None","vi":"Không Có"},
+    "exit_app":{"en":"Exit App","vi":"Thoát Ứng Dụng"},
+    "camera":{"en":"Camera","vi":"Máy Ảnh"},
+    "flashlight":{"en":"Flashlight","vi":"Đèn Pin"},
+    "off_flashlight":{"en":"Off Flashlight","vi":"Tắt Đèn Pin"},
+    "open_music":{"en":"Open Music","vi":"Mở Nhạc"},
+    "close_music":{"en":"Close Music","vi":"Tắt Nhạc"}
+}
