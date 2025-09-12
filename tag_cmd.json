@@ -1,11 +1,65 @@
 {
-    "{ten_user}": {"en":"gọi Name user","vi":"Gọi Tên người dùng"},
-    "{ten_nv}": {"en":"Tên nhân vật","vi":"Tên nhân vật"},
-    "{gio}": {"en":"Giờ hiện tại","vi":"Giờ hiện tại"},
-    "{ngay}": {"en":"Ngày hiện tại","vi":"Ngày hiện tại"},
-    "{ngay_thang}": {"en":"Ngày tháng hiện tại","vi":"Ngày tháng hiện tại"},
-    "{ngay_thang_nam}": {"en":"Ngày tháng năm hiện tại","   vi":"Ngày tháng năm hiện tại"},
-    "{thu}": {"en":"Thứ hiện tại","vi":"Thứ hiện tại"},
-    "{thang}": {"en":"Tháng hiện tại","vi":"Tháng hiện tại"},
-    "{nam}": {"en":"Năm hiện tại","vi":"Năm hiện tại"}
+  "{ten_user}": {
+    "en": "User name",
+    "vi": "Gọi Tên người dùng",
+    "es": "Nombre de usuario",
+    "pt": "Nome de usuário",
+    "ko": "사용자 이름",
+    "ja": "ユーザー名",
+    "ru": "Имя пользователя"
+  },
+  "{ten_nv}": {
+    "en": "Character name",
+    "vi": "Tên nhân vật",
+    "es": "Nombre del personaje",
+    "pt": "Nome do personagem",
+    "ko": "캐릭터 이름",
+    "ja": "キャラクター名",
+    "ru": "Имя персонажа"
+  },
+  "{gio}": {
+    "en": "Current time",
+    "vi": "Giờ hiện tại",
+    "es": "Hora actual",
+    "pt": "Hora atual",
+    "ko": "현재 시간",
+    "ja": "現在の時刻",
+    "ru": "Текущее время"
+  },
+  "{ngay}": {
+    "en": "Current date",
+    "vi": "Ngày hiện tại",
+    "es": "Fecha actual",
+    "pt": "Data atual",
+    "ko": "현재 날짜",
+    "ja": "現在の日付",
+    "ru": "Текущая дата"
+  },
+  "{thu}": {
+    "en": "Current weekday",
+    "vi": "Thứ hiện tại",
+    "es": "Día de la semana actual",
+    "pt": "Dia da semana atual",
+    "ko": "현재 요일",
+    "ja": "現在の曜日",
+    "ru": "Текущий день недели"
+  },
+  "{thang}": {
+    "en": "Current month",
+    "vi": "Tháng hiện tại",
+    "es": "Mes actual",
+    "pt": "Mês atual",
+    "ko": "현재 달",
+    "ja": "現在の月",
+    "ru": "Текущий месяц"
+  },
+  "{nam}": {
+    "en": "Current year",
+    "vi": "Năm hiện tại",
+    "es": "Año actual",
+    "pt": "Ano atual",
+    "ko": "현재 연도",
+    "ja": "現在の年",
+    "ru": "Текущий год"
+  }
 }

@@ -1,9 +1,65 @@
 {
-    "none":{"en":"None","vi":"Không Có"},
-    "exit_app":{"en":"Exit App","vi":"Thoát Ứng Dụng"},
-    "camera":{"en":"Camera","vi":"Máy Ảnh"},
-    "flashlight":{"en":"Flashlight","vi":"Đèn Pin"},
-    "off_flashlight":{"en":"Off Flashlight","vi":"Tắt Đèn Pin"},
-    "open_music":{"en":"Open Music","vi":"Mở Nhạc"},
-    "close_music":{"en":"Close Music","vi":"Tắt Nhạc"}
+  "none": {
+    "en": "None",
+    "vi": "Không Có",
+    "es": "Ninguno",
+    "pt": "Nenhum",
+    "ko": "없음",
+    "ja": "なし",
+    "ru": "Нет"
+  },
+  "exit_app": {
+    "en": "Exit App",
+    "vi": "Thoát Ứng Dụng",
+    "es": "Salir de la aplicación",
+    "pt": "Sair do aplicativo",
+    "ko": "앱 종료",
+    "ja": "アプリを終了",
+    "ru": "Выйти из приложения"
+  },
+  "camera": {
+    "en": "Camera",
+    "vi": "Máy Ảnh",
+    "es": "Cámara",
+    "pt": "Câmera",
+    "ko": "카메라",
+    "ja": "カメラ",
+    "ru": "Камера"
+  },
+  "flashlight": {
+    "en": "Flashlight",
+    "vi": "Đèn Pin",
+    "es": "Linterna",
+    "pt": "Lanterna",
+    "ko": "손전등",
+    "ja": "懐中電灯",
+    "ru": "Фонарик"
+  },
+  "off_flashlight": {
+    "en": "Off Flashlight",
+    "vi": "Tắt Đèn Pin",
+    "es": "Apagar linterna",
+    "pt": "Desligar lanterna",
+    "ko": "손전등 끄기",
+    "ja": "懐中電灯を消す",
+    "ru": "Выключить фонарик"
+  },
+  "open_music": {
+    "en": "Open Music",
+    "vi": "Mở Nhạc",
+    "es": "Abrir música",
+    "pt": "Abrir música",
+    "ko": "음악 켜기",
+    "ja": "音楽を再生",
+    "ru": "Включить музыку"
+  },
+  "close_music": {
+    "en": "Close Music",
+    "vi": "Tắt Nhạc",
+    "es": "Cerrar música",
+    "pt": "Fechar música",
+    "ko": "음악 끄기",
+    "ja": "音楽を停止",
+    "ru": "Выключить музыку"
+  }
 }
